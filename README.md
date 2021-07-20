@@ -1,0 +1,2 @@
+# Big-Integer-INTAL-project
+The purpose of this project is to make a library named "INTAL" to support Big Integers like 10-digit numbers in the C Language i.e. to increase the maximum size limit of any data types like int, string etc according to the user's wish (as a user will provide the maximum size limit) which is not there in C language by default. Also with the help of this library, operations like Sum, Difference, Multiply, Divide can be performed on this user-defined maximum-sized limit data types.
